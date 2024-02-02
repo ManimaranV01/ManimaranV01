@@ -4,7 +4,7 @@ Ex-Senior Process Associate @ TATA Consultancy Services
 <img align="right" width="370" height="290" src="https://media.tenor.com/3chViGDekT8AAAAi/wfh-work.gif">                                            
 - 🌱 I’m currently learning SPA HANA
 - 👯 I’m looking to collaborate on AI/Deep Learning
-- 🤔 I’m looking for help seaching New Job role
+- 🤔 I’m looking for help searching New Job role
 - 💬 Ask me about Technical skills,Business Services,Business Operations, Service delivery and customer support
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mani-maran-v-a51104293/)
