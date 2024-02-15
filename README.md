@@ -2,7 +2,7 @@
 
 Ex-Senior Process Associate @ TATA Consultancy Services
 <img align="right" width="370" height="290" src="https://media.tenor.com/3chViGDekT8AAAAi/wfh-work.gif">                                            
-- 🌱 I’m currently learning SPA HANA
+- 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on Project management
 - 🤔 I’m looking for help searching New Job role
 - 💬 Ask me about Technical skills,Business Services,Business Operations, Service delivery and customer support
