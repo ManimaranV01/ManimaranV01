@@ -7,7 +7,7 @@ Ex-Senior Process Associate @ TATA Consultancy Services
 - 🤔 I’m looking for help searching New Job role
 - 💬 Ask me about Technical skills,Business Services,Business Operations, Service delivery and customer support
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mani-maran-v-a51104293/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mani-maran-veeramuthu-a51104293/)
 - 😄 Pronouns:  "muh-nee-muh-rahn." (or)  "muh-rahn"
 - ⚡ Fun fact: I know Real estate.
 
